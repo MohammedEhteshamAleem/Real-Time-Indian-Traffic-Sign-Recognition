@@ -8,11 +8,11 @@ The system detects and classifies traffic signs from live video streams with hig
 
 ## Problem Statement
 
-Indian road environments are highly dynamic and complex. Traditional traffic sign recognition systems struggle due to:
-Lighting variations
-Occlusion of traffic signs
-Complex urban backgrounds
-Region-specific traffic signs
+Indian road environments are highly dynamic and complex. Traditional traffic sign recognition systems struggle due to:  
+Lighting variations  
+Occlusion of traffic signs  
+Complex urban backgrounds  
+Region-specific traffic signs  
 
 This project aims to develop a robust and scalable real-time traffic sign recognition system capable of handling these challenges.
 
